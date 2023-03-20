@@ -1,2 +1,2 @@
 # Git Devolver
-- git clone https://github.com/
+- Project: React Development
